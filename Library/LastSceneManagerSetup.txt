@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/natthaya3310/Desktop/Lap_Phy/Lap951323/Lap951323/unity/Lap5/Assets/_Scenes/Amy_01.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
