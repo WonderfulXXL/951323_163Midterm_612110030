@@ -66,6 +66,7 @@
      <Compile Include="Assets\_script\Singleton.cs" />
      <Compile Include="Assets\_script\SingletonGameManager.cs" />
      <Compile Include="Assets\_script\SingletonSoundManager.cs" />
+     <Compile Include="Assets\_script\SplashToMenu.cs" />
      <None Include="Assets\Samples\Cinemachine\2.6.3\Cinemachine Example Scenes\Scenes\Anywhere Door\ScreenCutoutShader.shader" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

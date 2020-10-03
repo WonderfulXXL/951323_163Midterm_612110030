@@ -22,8 +22,7 @@ public class MainMenuControlScript : MonoBehaviour
                     delegate{ExitButtonClick(_exitButton);});
                     _creditsButton.onClick.AddListener(
                        delegate{CreditsButtonClick(_creditsButton);});
-                      
-                       
+                                    
 
     }
 
